@@ -96,7 +96,7 @@ body {
 }
 
 .card-image {
-    background-image: url(./images/image-header-desktop.jpg);
+    background-image: url(https://github.com/ArnoldMajor/stats-preview-card-component-main/blob/f6b9b615b99e0b0d40fdc620a8838a07d27e2fec/images/image-header-desktop.jpg?raw=true);
     background-color: var(--clr-soft-violet-acc);
     background-repeat: no-repeat;
     background-size: cover;
@@ -131,6 +131,7 @@ body {
     }
 
     .card-image {
+        background-image: url(https://github.com/ArnoldMajor/stats-preview-card-component-main/blob/f6b9b615b99e0b0d40fdc620a8838a07d27e2fec/images/image-header-mobile.jpg?raw=true);
         border-top-left-radius: inherit;
         border-top-right-radius: inherit;
         border-bottom-left-radius: 0px;
